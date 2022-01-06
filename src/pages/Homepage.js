@@ -1,5 +1,5 @@
-import React from 'react';
-import Nav from '../componets/Nav';
+import React from "react";
+import Nav from "../componets/Nav";
 
 const Homepage = () => {
   return (
